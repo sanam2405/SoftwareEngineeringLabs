@@ -1,0 +1,9 @@
+[submodule "CacheReplacementAlgorithm"]
+	path = CacheReplacementAlgorithm
+	url = https://github.com/sanam2405/CacheReplacementAlgorithm.git
+[submodule "LSBImageEmbedding"]
+	path = LSBImageEmbedding
+	url = https://github.com/sanam2405/LSBImageEmbedding.git
+[submodule "BinomialDistribution"]
+	path = BinomialDistribution
+	url = https://github.com/sanam2405/BinomialDistribution.git
